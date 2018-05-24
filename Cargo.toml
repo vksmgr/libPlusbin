@@ -1,0 +1,13 @@
+[package]
+name = "libPlusbin"
+version = "0.1.0"
+authors = ["M <cseghrce@gmail.com>"]
+
+[lib]
+name = "mylib"
+path = "src/my_lib/lib.rs"
+
+[[bin]]
+name = "libPlusbin"
+path = "src/my_bin/main.rs"
+[dependencies]
