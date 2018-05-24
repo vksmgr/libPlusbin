@@ -1,0 +1,1 @@
+## this is the template for lib and bin in same project in rust.
